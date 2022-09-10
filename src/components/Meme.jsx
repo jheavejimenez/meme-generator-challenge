@@ -30,7 +30,7 @@ function Meme() {
     function getMemeImage() {
         // Create a variable called `memesArray` to hold memes array
         // Create a variable to hold random number use  Math.floor(Math.random() * memesArray.length) for getting random number
-        // Create a variable for getting random url from memes array
+        // Create a variable called `url` and index the allMemes with the random number
         // setMeme with random url
     }
 
