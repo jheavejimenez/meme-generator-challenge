@@ -5,7 +5,7 @@ Please make a UI look like this
 <img width="658" alt="image" src="https://user-images.githubusercontent.com/40889884/189487221-e105905e-7b89-4834-9a38-af3135666e32.png">
 
 Use tailwind for designing the UI
-[Link to tailwind docs] (https://tailwindcss.com/docs/guides/create-react-app)
+[Link to tailwind docs](https://tailwindcss.com/docs/guides/create-react-app)
 
 
 
