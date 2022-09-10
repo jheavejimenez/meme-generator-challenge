@@ -19,6 +19,26 @@ function Meme() {
      * Lastly don't forget to export the component!
      */
 
+    const [meme, setMeme] = React.useState({
+        topText: "",
+        bottomText: "",
+        randomImage: "http://i.imgflip.com/1bij.jpg"
+    });
+
+    const [allMemes, setAllMemes] = React.useState();
+
+    function getMemeImage() {
+        // Create a variable called `memesArray` to hold memes array
+        // Create a variable to hold random number use  Math.floor(Math.random() * memesArray.length) for getting random number
+        // Create a variable for getting random url from memes array
+        // setMeme with random url
+    }
+
+    function handleChange(event) {
+        const {name, value} = event.target
+        // setMeme with name and value
+    }
+
     return (
         <div>
             <h1>Meme Generator</h1>
